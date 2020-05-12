@@ -1,10 +1,10 @@
-![Object-Recognition-with-Deep-Learning]()
+![Object-Recognition-with-Deep-Learning](https://16sp2o45qs973i2kpolavg37-wpengine.netdna-ssl.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182.jpg)
 # Object Recognition Using Supervised Machine Learning Techniques
 We obtained the training Dataset from Keras library and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of Convolutional Neural Networks (CNN).
 
 More specifically, we will be using the All-CNN network published in the 2015 ICLR paper, "Striving For Simplicity:The All Convolutional Net". This paper can be found at the following link:
 
-### https://arxiv.org/pdf/1412.6806.pdf (https://arxiv.org/pdf/1412.6806.pdf)
+### https://arxiv.org/pdf/1412.6806.pdf
 
 ## Model All-CNN-C
 * Input 32 × 32 RGB image
